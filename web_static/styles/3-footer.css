@@ -1,9 +1,0 @@
-footer {
-	position: absolute;
-	bottom: 0;
-	inset-inline: 0;
-	height: 60px;
-	border-top: 1px solid #CCCCCC;
-	display: grid;
-	place-items: center;
-}
