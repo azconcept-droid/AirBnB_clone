@@ -1,23 +1,29 @@
 /*Global styles*/
 
+:root {
+	font-family: Circular, "Helvetica Neue", Helvetica, Arial,sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+}
+
 html, body {
-    margin: 0;
-    padding: 0;
-    min-width: 100vh;
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
 }
 
 html {
-    position: relative;
-  }
-
-body {
-    color: #484848;
-    font-size: 14px;
-    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  position: relative;
 }
 
+body {
+	font-size: 14px;
+	padding-bottom: 70px;
+}
 
 .container {
-    max-width: 1000px;
-    margin: 30px auto;
+	max-width: 1000px;
+	margin: 30px auto;
 }
