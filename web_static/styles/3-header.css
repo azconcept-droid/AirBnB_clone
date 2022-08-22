@@ -1,6 +1,14 @@
 header {
-    background: white url(../images/logo.png) no-repeat 20px center;
+    background: white;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+}
+
+.logo {
+    margin-right: auto;
+    width: 150px;
+    height: 70px;
+    background: url('../images/logo.png') center no-repeat;
+    padding-left: 20px;
 }

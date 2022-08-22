@@ -1,11 +1,15 @@
 /*Footer styles*/
 
 footer {
-	bottom: 0;
-	inset-inline: 0;
+	background-color: white;
 	height: 60px;
+	width: 100%;
 	border-top: 1px solid #CCCCCC;
-	display: grid;
-	place-items: center;
-    position: absolute;
+	bottom: 0;
+    position: fixed;
+}
+
+footer p {
+	margin: 20px;
+	text-align: center;
 }
