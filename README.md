@@ -1,6 +1,8 @@
 # 0x00. AirBnB clone - The console
+``Group project`` ``Python`` ``OOP``
 
 ![HBNB](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220826T233107Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0257817f3809f870bddeba4eac4b026fb3440daa0d7bda9e9ca22491068b98cd)
+
 
 ## 0x00.Table of contents
 
